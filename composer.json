@@ -1,0 +1,6 @@
+{
+    "name": "acer/vote",
+    "require": {
+        "laminas/laminas-math": "^3.2"
+    }
+}
